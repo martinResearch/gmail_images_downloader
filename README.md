@@ -1,2 +1,2 @@
-# gmail_images_downloader
-down images from you emails
+# gmail_ mages downloader
+downloads all the images from your emails
